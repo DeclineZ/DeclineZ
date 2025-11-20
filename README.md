@@ -1,6 +1,6 @@
-### Hi there, I'm Thiramet (Timmy) 👋
+### Hi there, I'm Timmy
 
-I'm a developer and aspiring Computer Engineer from Thailand. I specialize in building **AI-powered Web Applications** that solve real-world problems in Education, Healthcare, and Business.
+I'm a developer and aspiring Computer Engineer from Thailand. I specialize in building AI-powered Web Applications that solve real-world problems in Education, Healthcare, and Business.
 
 - 🏆 **Awards:** NSC 2025 Finalist, CEDT Innovation Summit Winner, Creative AI Camp Runner-up.
 - 🔭 I’m currently working on **Relian**, an AI platform to help students study smarter.

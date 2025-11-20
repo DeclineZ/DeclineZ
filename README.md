@@ -24,7 +24,7 @@ I'm a developer and aspiring Computer Engineer from Thailand. I specialize in bu
 | **San-Roo (แสนรู้)** | **[Award Winner: Creative AI Camp 2025]**<br>A Recommendation System for 7-11 stores using a **3-Stage Hybrid Model**. It predicts sales and ranks promotions to maximize revenue for specific branches. |
 | **Remina** | **[Outstanding Award: 2B-KMUTT]**<br>A Reminiscence Therapy application for **Alzheimer's patients**. Uses LLMs and Speech-to-Text to help patients recall memories through natural conversation. |
 
-### GitHub Stats
+### 📊 GitHub Stats
 <div align="left">
   <a href="https://github.com/DeclineZ">
     <img src="https://github-readme-stats.vercel.app/api?username=DeclineZ&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />

@@ -1,4 +1,4 @@
-### Hi there, I'm Timmy
+### Hi, I'm Timmy
 
 I'm a developer and aspiring Computer Engineer from Thailand. I specialize in building AI-powered Web Applications that solve real-world problems in Education, Healthcare, and Business.
 
